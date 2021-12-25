@@ -1,5 +1,3 @@
-# 数据类型
-
 在 JavaScript 中，数据类型可分为**原始类型**和**对象类型**。
 
 ## 原始类型
@@ -111,6 +109,6 @@ const add = function(a: number, b: number, c?: number) {
     return a + b
   }
 }
-
-
 ```
+
+
