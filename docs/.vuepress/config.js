@@ -28,7 +28,7 @@ module.exports = {
               { title: '数据类型', path: '/handbook/typescript/basic/DataType' }
             ]
           }, {
-            title: '进阶'
+            title: '进阶',
           }
         ]
       }
